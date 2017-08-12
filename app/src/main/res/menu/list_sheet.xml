@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/equal"
+    android:title="@string/equal_instalments" />
+<item
+    android:id="@+id/decreasing"
+    android:title="@string/decreasing_instalments" />
+
+</menu>
